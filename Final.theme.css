@@ -1,0 +1,17 @@
+@import url(https://raw.githubusercontent.com/BlinkWare/yeah/main/LightzShouldLetMeCumInHisAss.theme.css);
+
+:root {
+	/* OrchidLight */
+	--fluent-accent-hue-sat: 307, 55%;
+	--fluent-accent-lightness: 49%;
+
+	/* The colour text appears against the accent colour */
+	--fluent-text-on-accent-color: 0, 0, 0;
+
+	/* Ignore the gay */
+	--fluent-acrylic-background: url(https://media.discordapp.net/attachments/1136254163286773892/1140482092531204118/IMG_8541.png?width=1010&height=569);
+	--fluent-acrylic-background-blur: 2px;
+	--fluent-acrylic-background-dimness: 60%;
+	--fluent-acrylic-background-saturate: 50%;
+	--fluent-guilds-icon-size: 40px;
+}
