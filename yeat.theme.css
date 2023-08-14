@@ -1,0 +1,17 @@
+@import url(https://raw.githubusercontent.com/FlooferLand/DiscordFluentTheme/main/fluent.theme.css);
+
+:root {
+	/* OrchidLight */
+	--fluent-accent-hue-sat: 307, 55%;
+	--fluent-accent-lightness: 49%;
+
+	/* The colour text appears against the accent colour */
+	--fluent-text-on-accent-color: 0, 0, 0;
+
+	/* Ignore the gay */
+	--fluent-acrylic-background: url(https://img.freepik.com/free-vector/gradient-mountain-landscape_23-2149159772.jpg);
+	--fluent-acrylic-background-blur: 2px;
+	--fluent-acrylic-background-dimness: 60%;
+	--fluent-acrylic-background-saturate: 50%;
+	--fluent-guilds-icon-size: 40px;
+}
